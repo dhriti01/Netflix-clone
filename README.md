@@ -1,3 +1,9 @@
+#Netflix clone app
+
+This project aims at creating a clone of the world famous streaming app- Netflix. Built using React.js, this project dynamically fetches data of the various movie/show categories using the TMDB API and displays the trailer of the movie/show upon clicking on it's banner. The trailers are fetched using the Youtube API corresponding to that particular movie/show.
+
+Visit: https://netflix-clone-dhriti.netlify.app/ to view the deployed website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
